@@ -1,8 +1,8 @@
-$color-primary: hsl(0, 0%, 90%);
-$color-text: hsl(0, 0%, 80%);
-$color-subtext: hsl(0, 0%, 70%);
-$color-border: hsl(0, 1%, 23%);
-$color-box-background: mix($color-primary, black, 4%);
+$color-primary: hsl(0, 0%, 10%);
+$color-text: hsl(0, 0%, 20%);
+$color-subtext: hsl(0, 0%, 30%);
+$color-border: hsl(0, 0%, 85%);
+$color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -17,7 +17,6 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
-  background-color: hsl(0, 0%, 10%);
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -33,7 +32,7 @@ time {
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: mix($color-text, black, 80%);
+  color: mix($color-text, white, 80%);
   padding-top: 1em;
 }
 
@@ -80,18 +79,18 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 2px solid $color-border;
+  border-bottom: 1px solid $color-border;
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #FFA500;
+    background: #fffaf1;
   }
   &:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #555555;
+    color: #aaaaaa;
   }
   &.internal-link:after,
   &.footnote:after,
@@ -101,7 +100,7 @@ a {
 }
 
 *:focus {
-  background: #FFA500 !important;
+  background: #ffe8bc !important;
   color: black !important;
 }
 
@@ -129,34 +128,19 @@ nav {
 }
 
 code {
-  background: #0a0a0a;
+  background: #f5f5f5;
   padding: 0.1em 0.2em;
   border-radius: 4px;
 }
 
 .invalid-link {
-  color: #bbbbbb;
+  color: #444444;
   cursor: help;
-  background: #050505;
+  background: #fafafa;
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
-  color: #333;
+  color: #ccc;
   cursor: help;
-}
-
-.box {
-  margin-top: 1em; padding: 1em; background: #FFA500; border-radius: 4px;
-}
-.box p {
-  color: $color-border;
-}
-.box p a {
-  border-bottom: 2px solid #3b3a3a !important;
-  color: black !important;
-  &:hover {
-    color: #FFA500 !important;
-    background: black;
-  }
 }

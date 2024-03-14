@@ -5,18 +5,17 @@ id: home
 permalink: /
 ---
 
-# gm and welcome to my vault
-<div class="box">
-<p>
+# Gm 🌱
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[improve my thinking]]</span> to get started on your exploration.
 </p>
-</div>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-## <strong>my vault</strong>
+<strong>Recently updated notes</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
