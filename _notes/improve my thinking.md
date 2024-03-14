@@ -1,3 +1,0 @@
---- 
-title: Improve my thinking 
----
