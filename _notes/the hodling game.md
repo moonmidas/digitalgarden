@@ -21,7 +21,7 @@ While the most common bluechips are Bitcoin and Ethereum, you can also think in 
 When doing so, make sure to evaluate factors like team, technology, roadmaps, partnerships, and moat.
 
 ## Short Term Hodling Game
-This one is based on [[based on the crypto narratives|the narratives]] that are about to form.
+This one is based on the narratives that are about to form.
 
 At the moment I'm writing this article, some of the narratives that exist consist on "Crypto AI", "Bitcoin L2", "RWA (Real world assets)", "Restaking", "DePIN (Decentralized Physical Infrastructure Networks)", "Ordinals".
 
