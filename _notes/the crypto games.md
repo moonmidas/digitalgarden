@@ -12,3 +12,4 @@ Each of them can make people rich, but not everyone knows:
 So in order to be successful at playing these games, you better know which games are the most profitable for your own personality.
 
 [[the hodling game|The Hodling Game]]
+[[the media game|The Media Game]]

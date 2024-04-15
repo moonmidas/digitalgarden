@@ -64,3 +64,21 @@ This created an opportunity for the Decentralized AI narrative which fit perfect
 AI kept growing in 2023 and making headline after headline. Stocks moved in that direction as well, therefor it was obvious that AI+Crypto projects would move in that direction.
 
 And we saw it with projects such as Bittensor (TAO), PaaL, and even AI projects from the previous cycle such as Fetch.Ai pumping.
+
+But that's not it.
+
+You can also grab some "alpha" by looking at what have the VCs been investing into.
+
+In order to do this, you can join this channel on telegram: https://t.me/cryptorank_fundraising
+
+T his will keep you updated with the latest funding rounds that have been happening in the space.
+
+And you can even dive deeper by going to their website: https://cryptorank.io/funding-rounds
+
+Once you're there, you can filter it by "Tier 1 Funds" and "Early Stage Only".  
+
+This will give you an idea of where the smart money is going.
+
+Look for those projects with the highest amount of VCs, see what's the narrative behind it as a way to predict where the market will go next.
+
+The more confluence you find, the higher the chances for that narrative to spread to retail.
